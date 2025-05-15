@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5476454251987615729
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5194421392751451369, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_Name
+      value: Section3Dialog
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5194421392751451370, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8002955397637133819, guid: c66123020f606834e8597e88cbe187a7, type: 3}
+      propertyPath: m_text
+      value: Your <b>6-minute</b> exploration time is up. Ready to continue and learn
+        more about the water reuse systems?
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c66123020f606834e8597e88cbe187a7, type: 3}

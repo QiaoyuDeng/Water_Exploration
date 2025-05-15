@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8341709003285532972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4170878069366924770, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_text
+      value: Total Farm Phosphorus Loss
+      objectReference: {fileID: 0}
+    - target: {fileID: 6820835903451011825, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.34211513
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6821016214552424931, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6825982103432475273, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_Name
+      value: TotalPTooltip
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850580730193238885, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_Positions.Array.data[1].y
+      value: 0.17761612
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850580730193238885, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.a
+      value: 0.3025
+      objectReference: {fileID: 0}
+    - target: {fileID: 6850580730193238885, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: m_Parameters.colorGradient.key1.a
+      value: 0.3025
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857954041655436643, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: toolTipText
+      value: Total Farm Phosphorus Loss
+      objectReference: {fileID: 0}
+    - target: {fileID: 6858440217093605233, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: lineColor.key0.a
+      value: 0.3025
+      objectReference: {fileID: 0}
+    - target: {fileID: 6858440217093605233, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}
+      propertyPath: lineColor.key1.a
+      value: 0.3025
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6dda9b38aa3f71344a185ec1cd0b1c64, type: 3}

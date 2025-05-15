@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &282187842023385024
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 986864976430866977, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_text
+      value: OK
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864976430866977, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_fontSize
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864976430866977, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_fontStyle
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864976430866977, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864976430866977, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_enableWordWrapping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864976430866978, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864977570903344, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864977570903344, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 986864977570903344, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0002
+      objectReference: {fileID: 0}
+    - target: {fileID: 1975909130468274109, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: nodeList.Array.data[1].Transform
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4037249006820329461, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963241, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_Name
+      value: Section2Dialog
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475465534354963242, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5923786670187559996, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: seeItSayItLabel
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5923786670187559996, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: seeItSayItLabelText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6864673415187871910, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: profiles.Array.data[0].Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7204904320242792034, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_text
+      value: Great Job!
+      objectReference: {fileID: 0}
+    - target: {fileID: 7458163792246315496, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: seeItSayItLabel
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7458163792246315496, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: seeItSayItLabelText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7705945912608791922, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: profiles.Array.data[0].Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7852797604525519419, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+      propertyPath: m_text
+      value: "You\u2019ve completed all tasks. Thank you for being part of our study!"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 8228847245473589066, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+    - {fileID: 657527064456367882, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+    - {fileID: 4365463045902445278, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 35e5382359c221f4db7081b0e8e8927c, type: 3}
